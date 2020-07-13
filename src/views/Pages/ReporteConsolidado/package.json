@@ -1,0 +1,6 @@
+{
+    "name": "reporteconsolidado",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ReporteConsolidado.js"
+}

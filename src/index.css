@@ -1,0 +1,11 @@
+
+.div-avatar {
+    width: 40px;
+    height: 40px;
+    color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    padding: 8px;
+    font-size: 20;
+    font-weight: bold;
+}

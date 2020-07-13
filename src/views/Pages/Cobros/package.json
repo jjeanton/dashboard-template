@@ -1,0 +1,7 @@
+{
+    "name": "cobros",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./Cobros.js"
+  }
+  
